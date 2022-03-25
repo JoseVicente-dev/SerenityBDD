@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="actualizacion de datos" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-03-25T03:41:03" hostname="LAPTOP-107VJ5P9" time="4.709">
+  <properties/>
+  <testcase name="actualizacion exitosa" classname="actualizacion de datos" time="4.709"/>
+  <system-out><![CDATA[2022-03-24 22:41:04 INFO  UpdateClassStepDefinition:43 application/json
+2022-03-24 22:41:04 INFO  UpdateClassStepDefinition:46 {
+  "name": "morpheus",
+  "job": "zion_resident"
+}
+
+{
+    "name": "morpheus",
+    "job": "zion_resident",
+    "updatedAt": "2022-03-25T03:41:08.069Z"
+}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
